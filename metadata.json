@@ -1,0 +1,8 @@
+{
+  "name": "EduElevate: TTESS Mastery & Lesson Optimizer",
+  "description": "A comprehensive classroom management and lesson optimization tool for PreK-2nd grade teachers. Includes TTESS rubric alignment, Fundamental 5 integration, PAX kernels, video observation analysis, and student tier tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
